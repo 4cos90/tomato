@@ -11,14 +11,10 @@
             "id": "e74b7cee72969d84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/settings/世界观.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "世界观"
+              "title": "新标签页"
             }
           }
         ]
@@ -185,20 +181,30 @@
   },
   "active": "e74b7cee72969d84",
   "lastOpenFiles": [
+    "wiki/log.md.tmp.29348.1778340147443",
+    "wiki/plot/第一卷_剧情梗概.md.tmp.29348.1778340142811",
+    "wiki/relationships.md.tmp.29348.1778340135206",
+    "wiki/characters/赵海.md",
+    "wiki/characters/女主_苏晚.md.tmp.29348.1778340124695",
     "new/第一卷_末世抉择/序章_血与火.md",
+    "raw/第一卷_裂隙/第一章_重来.md",
+    "raw/第一卷_裂隙/序章_血与火.md",
+    "raw/第一卷_裂隙",
+    "raw",
     "new/第一卷_末世抉择/第一章_重来.md",
+    "new/第一卷_末世抉择/第一章_重来.md.tmp.29348.1778339664827",
+    "new/第一卷_末世抉择/第一章_重来.md.tmp.29348.1778339641024",
+    "new/第一卷_末世抉择/第一章_重来.md.tmp.29348.1778339631936",
+    "new/第一卷_末世抉择/第一章_重来.md.tmp.29348.1778339628082",
+    "wiki/settings/世界观.md",
     "TheSchema.md",
     "wiki/log.md",
     "wiki/index.md",
-    "wiki/settings/世界观.md",
     "wiki/plot/第一卷_剧情梗概.md",
     "wiki/relationships.md",
     "wiki/characters/女主_苏晚.md",
     "wiki/characters/主角_陆深.md",
     "new/第一卷_末世抉择",
-    "wiki/settings",
-    "wiki/plot",
-    "wiki/characters",
     "README.md",
     "CLAUDE.md"
   ]
